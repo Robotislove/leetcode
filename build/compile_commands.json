@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/code/build/src",
+  "command": "E:\\minge\\Mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\main.dir\\main.cpp.obj -c E:\\code\\LeetCode\\src\\main.cpp",
+  "file": "E:/code/LeetCode/src/main.cpp"
+}
+]

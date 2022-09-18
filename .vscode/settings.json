@@ -1,0 +1,19 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/LeetCode",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+          "source": "Git Bash", //一般推荐使用powershell
+          "overrideName": true,
+          "args": ["-NoExit", "/c", "chcp 65001"],
+          "icon": "terminal-powershell",
+          "env": {
+            "TEST_VAR": "value"
+          }
+        }
+      },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "files.associations": {
+      "iostream": "cpp"
+    },
+
+}
